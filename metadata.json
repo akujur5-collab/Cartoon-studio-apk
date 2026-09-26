@@ -1,0 +1,6 @@
+{
+  "name": "ToonCraft",
+  "description": "Modern AI Cartoon Character Video Maker with voice-over, automated lip-sync, timeline motion, and 9:16 MP4 video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

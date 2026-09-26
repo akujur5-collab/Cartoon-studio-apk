@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Clapperboard top / clapper stick angled -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M24,30 L80,24 L82,34 L26,40 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,29 L42,28 L40,38 L32,39 Z M52,27 L60,26 L58,36 L50,37 Z M70,25 L78,24 L76,34 L68,35 Z" />
+
+    <!-- Main Clapperboard body / Cartoon Face Canvas -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M24,42 L84,42 C87.3,42 90,44.7 90,48 L90,80 C90,83.3 87.3,86 84,86 L24,86 C20.7,86 18,83.3 18,80 L18,48 C18,44.7 20.7,42 24,42 Z" />
+
+    <!-- Clapper stripes header -->
+    <path
+        android:fillColor="#312E81"
+        android:pathData="M18,42 L90,42 L90,52 L18,52 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,42 L34,42 L24,52 L18,52 L18,50 Z M46,42 L54,42 L44,52 L36,52 Z M66,42 L74,42 L64,52 L56,52 Z M86,42 L90,42 L90,46 L84,52 L76,52 Z" />
+
+    <!-- Big cute cartoon eyes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,62 C38,58 41.5,55 46,55 C50.5,55 54,58 54,62 C54,66 50.5,69 46,69 C41.5,69 38,66 38,62 Z" />
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M44,62 C44,60 45.8,58.2 48,58.2 C50.2,58.2 52,60 52,62 C52,64 50.2,65.8 48,65.8 C45.8,65.8 44,64 44,62 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,60 C48,59 48.8,58.2 49.8,58.2 C50.8,58.2 51.6,59 51.6,60 C51.6,61 50.8,61.8 49.8,61.8 C48.8,61.8 48,61 48,60 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,62 C56,58 59.5,55 64,55 C68.5,55 72,58 72,62 C72,66 68.5,69 64,69 C59.5,69 56,66 56,62 Z" />
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M62,62 C62,60 63.8,58.2 66,58.2 C68.2,58.2 70,60 70,62 C70,64 68.2,65.8 66,65.8 C63.8,65.8 62,64 62,62 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,60 C66,59 66.8,58.2 67.8,58.2 C68.8,58.2 69.6,59 69.6,60 C69.6,61 68.8,61.8 67.8,61.8 C66.8,61.8 66,61 66,60 Z" />
+
+    <!-- Cute cartoon smiling open mouth (lip sync speaking!) -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M45,73 C45,73 49,80 55,80 C61,80 65,73 65,73 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,73 L62,73 C60,75 58,76 55,76 C52,76 50,75 48,73 Z" />
+    <path
+        android:fillColor="#FB7185"
+        android:pathData="M51,77 C53,75 57,75 59,77 C57,79 53,79 51,77 Z" />
+
+    <!-- Rosy cartoon cheeks -->
+    <path
+        android:fillColor="#FB7185"
+        android:pathData="M34,67 C34,65.3 35.8,64 38,64 C40.2,64 42,65.3 42,67 C42,68.7 40.2,70 38,70 C35.8,70 34,68.7 34,67 Z" />
+    <path
+        android:fillColor="#FB7185"
+        android:pathData="M68,67 C68,65.3 69.8,64 72,64 C74.2,64 76,65.3 76,67 C76,68.7 74.2,70 72,70 C69.8,70 68,68.7 68,67 Z" />
+
+    <!-- Sparkles / Stars -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M84,28 L86,33 L91,35 L86,37 L84,42 L82,37 L77,35 L82,33 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M18,34 L19.5,37.5 L23,39 L19.5,40.5 L18,44 L16.5,40.5 L13,39 L16.5,37.5 Z" />
+</vector>
